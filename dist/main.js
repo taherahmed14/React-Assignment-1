@@ -1,0 +1,1 @@
+console.log("Addition 8"),console.log("Multiplication 12"),console.log("Diff -4");
